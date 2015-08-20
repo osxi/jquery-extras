@@ -19,11 +19,6 @@
   'use strict';
 
   $.fn.barf = function() {
-    // return $(this)
-    //   .children()
-    //   .first()
-    //   .prependTo($(this).parent());
-
     var firstChild = $(this).children().first();
     return $(this).before(firstChild);
   };
