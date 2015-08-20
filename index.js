@@ -9,19 +9,19 @@
 }(this, function() {
   'use strict';
 
-  $.fn.barf = function() {
+  $.fn.barfBackward = function() {
     var firstChild = $(this).children().first();
     return $(this).before(firstChild);
   };
 
-  $.fn.slurp = function() {
+  $.fn.slurpBackward = function() {
     return $(this)
       .prev()
       .prependTo($(this));
   };
 
   return {
-    barf: $.fn.barf,
-    slurp: $.fn.slurp
+    barfBackward: $.fn.barfBackward,
+    slurpBackward: $.fn.slurpBackward
   };
 }));
