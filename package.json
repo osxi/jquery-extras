@@ -1,0 +1,22 @@
+{
+  "name": "jquery-extras",
+  "version": "0.0.1",
+  "description": "Helpful extras for working with jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "extras"
+  ],
+  "author": "osxi",
+  "license": "MIT",
+  "devDependencies": {
+    "deamdify": "^0.1.1",
+    "deglobalify": "^0.2.0",
+    "gulp": "^3.9.0",
+    "gulp-umd": "^0.2.0",
+    "jquery": "^2.1.4"
+  }
+}
