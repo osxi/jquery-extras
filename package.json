@@ -13,6 +13,8 @@
   "author": "osxi",
   "license": "MIT",
   "devDependencies": {
+    "buster": "^0.7.18",
+    "buster-lint": "^0.3.1",
     "gulp": "^3.9.0",
     "gulp-umd": "^0.2.0",
     "jquery": "^2.1.4"
