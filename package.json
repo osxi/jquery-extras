@@ -1,6 +1,6 @@
 {
   "name": "jquery-extras",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Helpful extras for working with jQuery",
   "main": "index.js",
   "scripts": {
