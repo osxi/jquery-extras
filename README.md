@@ -1,4 +1,7 @@
 # jquery-extras [![devDependency Status](https://david-dm.org/osxi/jquery-extras/dev-status.svg)](https://david-dm.org/osxi/jquery-extras#info=devDependencies)
+
+`npm install jquery-extras`
+
 Helpful extras for working with jQuery
 
 # Barfage and Slurpage
