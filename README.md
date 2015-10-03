@@ -1,4 +1,4 @@
-# jquery-extras
+# jquery-extras [![devDependency Status](https://david-dm.org/osxi/jquery-extras/dev-status.svg)](https://david-dm.org/osxi/jquery-extras#info=devDependencies)
 Helpful extras for working with jQuery
 
 # Barfage and Slurpage
