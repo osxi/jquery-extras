@@ -8,6 +8,8 @@ Helpful extras for working with jQuery
 
 These were inspired by paredit-mode for Emacs.
 
+This package is distributed as a UMD module.
+
 ## `.barfBackward()`
 
 Given a jQuery object that represents a DOM element, the `.barfBackward()` method moves the first child element to the position immediately before the parent.
@@ -23,3 +25,7 @@ Given a jQuery object that represents a DOM element, the `.slurpBackward()` meth
 ## `.slurpForward()`
 
 Given a jQuery object that represents a DOM element, the `.slurpBackward()` method moves the element after the given selector into the given selector's last child position.
+
+# Development
+
+Use `gulp` (default Gulp task) to build to `dist/index.js`.
