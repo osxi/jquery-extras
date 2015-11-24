@@ -28,4 +28,4 @@ Given a jQuery object that represents a DOM element, the `.slurpBackward()` meth
 
 # Development
 
-Use `gulp` (default Gulp task) to build to `dist/index.js`.
+Use `gulp` (default Gulp task) to build to `build/index.js`.
